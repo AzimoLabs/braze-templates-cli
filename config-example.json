@@ -1,0 +1,6 @@
+{
+  "brazeApiUrl": "https://rest.fra-01.braze.eu",
+  "brazeTokenStaging": "BRAZE_STAGING_TOKEN",
+  "brazeTokenProd": "BRAZE_PROD_TOKEN",
+  "production": false
+}
