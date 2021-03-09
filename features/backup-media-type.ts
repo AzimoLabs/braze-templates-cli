@@ -4,7 +4,7 @@ import { readJSON } from '../lib/file-io.ts';
 import { ensureDirSync } from 'https://deno.land/std/fs/mod.ts';
 
 export abstract class BackupMediaType {
-    static BASE_BACKUP_PATH = `./backup/${config.production ? 'production' : 'staging'}`;
+    static BASE_BACKUP_PATH = `./backup/${config.production ? 'production' : 'sandbox'}`;
     static SLEEP_TIME_MS = 200;
 
     public abstract readonly mediaType: BrazeMediaType;
