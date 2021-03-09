@@ -1,6 +1,6 @@
 export interface BrazeConfig {
     'brazeApiUrl': string,
-    'brazeTokenStaging': string,
+    'brazeTokenSandbox': string,
     'brazeTokenProd': string,
     'production': boolean
 }
