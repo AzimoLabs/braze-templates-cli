@@ -1,5 +1,7 @@
 # Braze templates CLI
 
+Simple CLI tool written in Deno for creating a back-up of Braze templates and content blocks. 
+
 ---
 ## Usage
 
