@@ -65,3 +65,6 @@ You can compile application locally using:
 ```shell
 deno compile -o ./email-templates --target x86_64-apple-darwin --unstable --allow-read --allow-net --allow-write ./main.ts
 ```
+
+# Towards financial services available to all
+We’re working throughout the company to create faster, cheaper, and more available financial services all over the world, and here are some of the techniques that we’re utilizing. There’s still a long way ahead of us, and if you’d like to be part of that journey, check out our [careers page](bit.ly/3vajnu6).
